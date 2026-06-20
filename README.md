@@ -25,6 +25,7 @@ I enjoy transforming ideas into practical solutions and actively work on project
 
 * HTML
 * JavaScript
+* CSS
 * C++
 * C
 * SQL
