@@ -78,8 +78,6 @@ Worked on multiple projects involving Data Structures, Object-Oriented Programmi
 ---
 
 ## 📫 Connect With Me
-
-* GitHub: https://github.com/omkar-editor
 * LinkedIn: https://www.linkedin.com/in/omkar-sharma2007
 * Email: 122omkarsharma@gmail.com
 
